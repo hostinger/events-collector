@@ -1,0 +1,7 @@
+{
+    "MONGO_URL": "mongodb://user:pass@localhost:27017/database",
+    "MONGO_COLLECTION": "collection-name",
+    "AMQP_EXCHANGE": "ampq-exchange",
+    "AMQP_QUEUE": "ampq-exchange",
+    "AMQP_URL": "amqp://dev.rabbitmq.com"
+}
